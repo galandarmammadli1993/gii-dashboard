@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-14T11:51:16.232Z",
+  "savedAt": "2026-07-14T11:51:54.768Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -97,7 +97,7 @@
                 "name": "Policy stability for doing business",
                 "mode": "manual",
                 "rawValue": "73.90",
-                "minValue": "",
+                "minValue": "0",
                 "maxValue": "",
                 "apiEndpoint": "",
                 "apiRawPath": "",
@@ -114,7 +114,7 @@
                 "name": "Entrepreneurship policies and culture",
                 "mode": "manual",
                 "rawValue": "98.60",
-                "minValue": "",
+                "minValue": "0",
                 "maxValue": "",
                 "apiEndpoint": "",
                 "apiRawPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 0,
-    "selSi": 1,
+    "selSi": 2,
     "scenOver": {},
     "scenActive": false,
     "expP": {

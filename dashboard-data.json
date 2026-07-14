@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-14T11:10:34.808Z",
+  "savedAt": "2026-07-14T11:51:16.232Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -57,8 +57,8 @@
                 "name": "Regulatory quality",
                 "mode": "manual",
                 "rawValue": "56.99",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -74,8 +74,8 @@
                 "name": "Rule of law",
                 "mode": "manual",
                 "rawValue": "48.61",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1499,9 +1499,9 @@
         ]
       }
     ],
-    "tab": "overview",
+    "tab": "indicators",
     "selPi": 0,
-    "selSi": 0,
+    "selSi": 1,
     "scenOver": {},
     "scenActive": false,
     "expP": {

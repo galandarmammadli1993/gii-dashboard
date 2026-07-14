@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-14T11:51:54.768Z",
+  "savedAt": "2026-07-14T11:52:09.429Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -98,7 +98,7 @@
                 "mode": "manual",
                 "rawValue": "73.90",
                 "minValue": "0",
-                "maxValue": "",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -115,7 +115,7 @@
                 "mode": "manual",
                 "rawValue": "98.60",
                 "minValue": "0",
-                "maxValue": "",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

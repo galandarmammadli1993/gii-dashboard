@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-14T12:01:26.167Z",
+  "savedAt": "2026-07-14T12:01:33.358Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -234,7 +234,7 @@
                 "name": " Tertiary enrolment, % gross",
                 "mode": "manual",
                 "rawValue": "41.34",
-                "minValue": "2",
+                "minValue": "2.71",
                 "maxValue": "166.67",
                 "apiEndpoint": "",
                 "apiRawPath": "",

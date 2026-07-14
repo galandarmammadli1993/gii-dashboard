@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-06-30T09:17:43.971Z",
+  "savedAt": "2026-07-14T11:10:34.808Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -34,8 +34,8 @@
                 "name": "Government effectiveness",
                 "mode": "manual",
                 "rawValue": "54.57",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1499,9 +1499,9 @@
         ]
       }
     ],
-    "tab": "indicators",
-    "selPi": 6,
-    "selSi": 2,
+    "tab": "overview",
+    "selPi": 0,
+    "selSi": 0,
     "scenOver": {},
     "scenActive": false,
     "expP": {

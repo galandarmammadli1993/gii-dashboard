@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-14T11:52:09.429Z",
+  "savedAt": "2026-07-14T11:53:58.281Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -15,10 +15,10 @@
               {
                 "id": "edq1geb",
                 "name": "Operational Stability for businesses",
-                "mode": "na",
-                "rawValue": "",
-                "minValue": "",
-                "maxValue": "",
+                "mode": "manual",
+                "rawValue": "1.84",
+                "minValue": "4.45",
+                "maxValue": "0.7",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 0,
-    "selSi": 2,
+    "selSi": 0,
     "scenOver": {},
     "scenActive": false,
     "expP": {

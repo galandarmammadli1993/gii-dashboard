@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-14T12:01:33.358Z",
+  "savedAt": "2026-07-15T05:39:02.589Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -251,8 +251,8 @@
                 "name": " Graduates in science and engineering, %",
                 "mode": "manual",
                 "rawValue": "26.48",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "9.56",
+                "maxValue": "41.1",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -268,8 +268,8 @@
                 "name": " Tertiary inbound mobility, %",
                 "mode": "manual",
                 "rawValue": "2.44",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "69.73",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

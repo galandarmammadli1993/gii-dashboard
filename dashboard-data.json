@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-15T05:43:02.356Z",
+  "savedAt": "2026-07-15T05:43:12.776Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -325,8 +325,8 @@
                 "name": " Global corporate R&D investors, top 3, mn USD",
                 "mode": "manual",
                 "rawValue": "0.00",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "0",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

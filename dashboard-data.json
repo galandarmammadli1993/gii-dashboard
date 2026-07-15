@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-15T05:39:02.589Z",
+  "savedAt": "2026-07-15T05:40:32.547Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -291,8 +291,8 @@
                 "name": " Researchers, FTE/mn pop",
                 "mode": "manual",
                 "rawValue": "1663.00",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "4.5",
+                "maxValue": "10410",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 1,
-    "selSi": 1,
+    "selSi": 2,
     "scenOver": {},
     "scenActive": false,
     "expP": {

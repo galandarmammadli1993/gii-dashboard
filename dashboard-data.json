@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-15T05:59:22.192Z",
+  "savedAt": "2026-07-15T11:17:12.899Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -548,8 +548,8 @@
                 "name": " Finance for startups and scaleups†",
                 "mode": "manual",
                 "rawValue": "78.20",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -564,9 +564,9 @@
                 "id": "xs6nqzz",
                 "name": " Domestic credit to private sector, % GDP",
                 "mode": "manual",
-                "rawValue": "19.10",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "22.39",
+                "minValue": "8.14",
+                "maxValue": "248.76",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1500,8 +1500,8 @@
       }
     ],
     "tab": "indicators",
-    "selPi": 2,
-    "selSi": 2,
+    "selPi": 3,
+    "selSi": 0,
     "scenOver": {},
     "scenActive": false,
     "expP": {

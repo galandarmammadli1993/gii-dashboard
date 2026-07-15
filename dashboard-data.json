@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-15T05:47:45.088Z",
+  "savedAt": "2026-07-15T05:50:29.050Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -428,8 +428,8 @@
                 "name": " Electricity output, GWh/mn pop",
                 "mode": "manual",
                 "rawValue": "2780.00",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "29",
+                "maxValue": "24250.0",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -462,8 +462,8 @@
                 "name": " Gross capital formation, % GDP",
                 "mode": "manual",
                 "rawValue": "15.98",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "11.6",
+                "maxValue": "44.56",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 2,
-    "selSi": 0,
+    "selSi": 1,
     "scenOver": {},
     "scenActive": false,
     "expP": {

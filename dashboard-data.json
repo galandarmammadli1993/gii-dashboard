@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-15T05:40:32.547Z",
+  "savedAt": "2026-07-15T05:42:11.211Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -250,7 +250,7 @@
                 "id": "nbta157",
                 "name": " Graduates in science and engineering, %",
                 "mode": "manual",
-                "rawValue": "26.48",
+                "rawValue": "26.81",
                 "minValue": "9.56",
                 "maxValue": "41.1",
                 "apiEndpoint": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 1,
-    "selSi": 2,
+    "selSi": 1,
     "scenOver": {},
     "scenActive": false,
     "expP": {

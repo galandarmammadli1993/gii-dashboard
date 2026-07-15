@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-15T05:43:12.776Z",
+  "savedAt": "2026-07-15T05:44:33.832Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -326,7 +326,7 @@
                 "mode": "manual",
                 "rawValue": "0.00",
                 "minValue": "0",
-                "maxValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -342,8 +342,8 @@
                 "name": " QS university ranking, top 3",
                 "mode": "manual",
                 "rawValue": "18.50",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "97.63",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

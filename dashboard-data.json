@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-16T05:27:20.598Z",
+  "savedAt": "2026-07-16T05:27:37.773Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -581,7 +581,7 @@
                 "id": "10derxk",
                 "name": " Loans from microfinance institutions, % GDP",
                 "mode": "manual",
-                "rawValue": "1.18",
+                "rawValue": "0.64",
                 "minValue": "0",
                 "maxValue": "17.34",
                 "apiEndpoint": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 3,
-    "selSi": 1,
+    "selSi": 0,
     "scenOver": {},
     "scenActive": false,
     "expP": {

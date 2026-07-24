@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-24T11:13:55.513Z",
+  "savedAt": "2026-07-24T11:56:32.199Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -695,9 +695,9 @@
                 "id": "n39mghi",
                 "name": " Applied tariff rate, weighted avg., %",
                 "mode": "manual",
-                "rawValue": "7.10",
-                "minValue": "47.54",
-                "maxValue": "0",
+                "rawValue": "61.63",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -712,7 +712,7 @@
                 "id": "r4oh1c8",
                 "name": " Domestic industry diversification",
                 "mode": "manual",
-                "rawValue": "81.40",
+                "rawValue": "79.52",
                 "minValue": "0",
                 "maxValue": "100",
                 "apiEndpoint": "",
@@ -729,7 +729,7 @@
                 "id": "au2qqx4",
                 "name": " Domestic market scale, bn PPP$",
                 "mode": "manual",
-                "rawValue": "270.00",
+                "rawValue": "267.53",
                 "minValue": "4.14",
                 "maxValue": "37070",
                 "apiEndpoint": "",

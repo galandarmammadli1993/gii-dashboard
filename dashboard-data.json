@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-24T11:09:13.686Z",
+  "savedAt": "2026-07-24T11:13:55.513Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -713,8 +713,8 @@
                 "name": " Domestic industry diversification",
                 "mode": "manual",
                 "rawValue": "81.40",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -730,8 +730,8 @@
                 "name": " Domestic market scale, bn PPP$",
                 "mode": "manual",
                 "rawValue": "270.00",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "4.14",
+                "maxValue": "37070",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

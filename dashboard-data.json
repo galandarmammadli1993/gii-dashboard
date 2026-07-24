@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-24T19:58:53.608Z",
+  "savedAt": "2026-07-24T20:04:52.751Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1007,7 +1007,7 @@
               {
                 "id": "75ijhpu",
                 "name": " Research talent, % in businesses",
-                "mode": "manual",
+                "mode": "na",
                 "rawValue": "",
                 "minValue": "",
                 "maxValue": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 4,
-    "selSi": 1,
+    "selSi": 2,
     "scenOver": {},
     "scenActive": false,
     "expP": {

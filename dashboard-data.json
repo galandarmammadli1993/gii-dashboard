@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-16T05:30:02.039Z",
+  "savedAt": "2026-07-24T11:09:13.686Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -696,8 +696,8 @@
                 "name": " Applied tariff rate, weighted avg., %",
                 "mode": "manual",
                 "rawValue": "7.10",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "47.54",
+                "maxValue": "0",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 3,
-    "selSi": 1,
+    "selSi": 2,
     "scenOver": {},
     "scenActive": false,
     "expP": {

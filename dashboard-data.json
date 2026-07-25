@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-07-24T20:04:52.751Z",
+  "savedAt": "2026-07-25T10:27:06.495Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -940,9 +940,9 @@
                 "id": "xnhzn5m",
                 "name": " Intellectual property payments, % total trade",
                 "mode": "manual",
-                "rawValue": "",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "16",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

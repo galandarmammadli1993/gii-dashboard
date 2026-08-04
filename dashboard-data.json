@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-04T10:20:42.893Z",
+  "savedAt": "2026-08-04T10:21:15.157Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1089,8 +1089,8 @@
                 "name": " Scientific and technical articles/bn PPP$ GDP",
                 "mode": "manual",
                 "rawValue": "8.2",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

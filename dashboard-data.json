@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-04T10:16:55.343Z",
+  "savedAt": "2026-08-04T10:19:32.688Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1054,9 +1054,9 @@
                 "id": "yfs4op1",
                 "name": " PCT patents by inventor origin/bn PPP$ GDP",
                 "mode": "manual",
-                "rawValue": "20",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "0.08",
+                "minValue": "0",
+                "maxValue": "7.57",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

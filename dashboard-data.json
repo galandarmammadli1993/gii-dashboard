@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-04T10:21:15.157Z",
+  "savedAt": "2026-08-04T10:22:12.741Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1106,8 +1106,8 @@
                 "name": "Citable documents H-index",
                 "mode": "manual",
                 "rawValue": "182",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "2050",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

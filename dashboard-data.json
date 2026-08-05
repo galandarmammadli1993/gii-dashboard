@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-05T06:49:59.035Z",
+  "savedAt": "2026-08-05T06:53:51.843Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1129,8 +1129,8 @@
                 "name": " Labor productivity growth, %",
                 "mode": "manual",
                 "rawValue": "2.2",
-                "minValue": "0",
-                "maxValue": "100",
+                "minValue": "-4",
+                "maxValue": "6",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1163,8 +1163,8 @@
                 "name": " Software spending, % GDP",
                 "mode": "manual",
                 "rawValue": "0.06",
-                "minValue": "0",
-                "maxValue": "100",
+                "minValue": "0.01",
+                "maxValue": "1.26",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 5,
-    "selSi": 2,
+    "selSi": 1,
     "scenOver": {},
     "scenActive": false,
     "expP": {

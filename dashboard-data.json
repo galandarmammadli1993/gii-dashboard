@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-05T09:51:55.873Z",
+  "savedAt": "2026-08-05T09:52:49.864Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1390,9 +1390,9 @@
                 "id": "26kgqb7",
                 "name": " National feature films/mn pop. 15–69",
                 "mode": "manual",
-                "rawValue": "",
+                "rawValue": "0",
                 "minValue": "",
-                "maxValue": "",
+                "maxValue": "29.65",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 6,
-    "selSi": 0,
+    "selSi": 1,
     "scenOver": {},
     "scenActive": false,
     "expP": {

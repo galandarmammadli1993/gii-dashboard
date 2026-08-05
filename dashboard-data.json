@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-05T10:46:09.264Z",
+  "savedAt": "2026-08-05T10:50:36.121Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1465,8 +1465,8 @@
                 "name": " GitHub commits/mn pop. 15–69",
                 "mode": "manual",
                 "rawValue": "320000.0",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "2570",
+                "maxValue": "6150000",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1482,8 +1482,8 @@
                 "name": " Mobile app creation/bn PPP$ GDP",
                 "mode": "manual",
                 "rawValue": "62.8",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 6,
-    "selSi": 1,
+    "selSi": 2,
     "scenOver": {},
     "scenActive": false,
     "expP": {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-05T10:42:32.579Z",
+  "savedAt": "2026-08-05T10:46:09.264Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1407,9 +1407,9 @@
                 "id": "p6718if",
                 "name": "Entertainment and media market/th pop. 15–69",
                 "mode": "manual",
-                "rawValue": "3.6",
+                "rawValue": "0.143",
                 "minValue": "0",
-                "maxValue": "100",
+                "maxValue": "3.59",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1448,7 +1448,7 @@
                 "name": "Top-level domains (TLDs)/th pop. 15–69",
                 "mode": "manual",
                 "rawValue": "10.86",
-                "minValue": "",
+                "minValue": "0.12",
                 "maxValue": "581.69",
                 "apiEndpoint": "",
                 "apiRawPath": "",
@@ -1501,7 +1501,7 @@
     ],
     "tab": "indicators",
     "selPi": 6,
-    "selSi": 2,
+    "selSi": 1,
     "scenOver": {},
     "scenActive": false,
     "expP": {

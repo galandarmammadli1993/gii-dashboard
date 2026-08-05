@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-05T09:52:56.345Z",
+  "savedAt": "2026-08-05T10:36:19.679Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1373,9 +1373,9 @@
                 "id": "hj0oafi",
                 "name": " Cultural and creative services exports, % total trade",
                 "mode": "manual",
-                "rawValue": "",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "0.07",
+                "minValue": "0.01",
+                "maxValue": "4.59",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1407,9 +1407,9 @@
                 "id": "p6718if",
                 "name": "Entertainment and media market/th pop. 15–69",
                 "mode": "manual",
-                "rawValue": "",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "0.025",
+                "minValue": "0.01",
+                "maxValue": "9.51",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

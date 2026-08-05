@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-05T09:46:04.283Z",
+  "savedAt": "2026-08-05T09:51:55.873Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1316,9 +1316,9 @@
                 "id": "wypvvpb",
                 "name": " Trademarks by origin/bn PPP$ GDP",
                 "mode": "manual",
-                "rawValue": "",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "25.8",
+                "minValue": "0.73",
+                "maxValue": "202.33",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1350,9 +1350,9 @@
                 "id": "icbemgc",
                 "name": " Industrial designs by origin/bn PPP$ GDP",
                 "mode": "manual",
-                "rawValue": "",
-                "minValue": "",
-                "maxValue": "",
+                "rawValue": "0.234",
+                "minValue": "0.01",
+                "maxValue": "23.28",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

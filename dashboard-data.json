@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-06T04:09:26.423Z",
+  "savedAt": "2026-08-06T04:10:12.854Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -502,8 +502,8 @@
                 "name": " Low-carbon energy use, %",
                 "mode": "manual",
                 "rawValue": "2.30",
-                "minValue": "",
-                "maxValue": "",
+                "minValue": "0.01",
+                "maxValue": "82.64",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

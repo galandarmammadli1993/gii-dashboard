@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-06T04:12:35.402Z",
+  "savedAt": "2026-08-06T04:14:49.067Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1180,8 +1180,8 @@
                 "name": " High-tech manufacturing, %",
                 "mode": "manual",
                 "rawValue": "15.8",
-                "minValue": "0",
-                "maxValue": "100",
+                "minValue": "1.04",
+                "maxValue": "79.65",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1500,7 +1500,7 @@
       }
     ],
     "tab": "indicators",
-    "selPi": 4,
+    "selPi": 5,
     "selSi": 1,
     "scenOver": {},
     "scenActive": false,

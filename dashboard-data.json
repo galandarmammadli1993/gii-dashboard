@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-06T04:11:42.277Z",
+  "savedAt": "2026-08-06T04:12:35.402Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -917,9 +917,9 @@
                 "id": "o2swagz",
                 "name": " Patent families/bn PPP$ GDP",
                 "mode": "manual",
-                "rawValue": "0.02",
+                "rawValue": "0.56",
                 "minValue": "0.00",
-                "maxValue": "73.67",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-12T04:28:22.897Z",
+  "savedAt": "2026-08-12T04:34:31.782Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -729,9 +729,9 @@
                 "id": "au2qqx4",
                 "name": " Domestic market scale, bn PPP$",
                 "mode": "manual",
-                "rawValue": "254530000000",
-                "minValue": "583",
-                "maxValue": "370700000000",
+                "rawValue": "52.61",
+                "minValue": "0",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

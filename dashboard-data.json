@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-12T04:41:30.435Z",
+  "savedAt": "2026-08-12T04:48:02.193Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1071,9 +1071,9 @@
                 "id": "96xubyk",
                 "name": " Utility models by origin/bn PPP$ GDP",
                 "mode": "manual",
-                "rawValue": "0.24",
+                "rawValue": "6.8",
                 "minValue": "0",
-                "maxValue": "88.51",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",

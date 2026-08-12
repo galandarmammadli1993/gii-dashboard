@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-12T04:34:31.782Z",
+  "savedAt": "2026-08-12T04:41:30.435Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -1037,9 +1037,9 @@
                 "id": "w0m3cri",
                 "name": " Patents by origin/bn PPP$ GDP",
                 "mode": "manual",
-                "rawValue": "0.95",
+                "rawValue": "15.2",
                 "minValue": "0",
-                "maxValue": "61.56",
+                "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
                 "apiMinPath": "",
@@ -1500,8 +1500,8 @@
       }
     ],
     "tab": "indicators",
-    "selPi": 3,
-    "selSi": 2,
+    "selPi": 5,
+    "selSi": 0,
     "scenOver": {},
     "scenActive": false,
     "expP": {

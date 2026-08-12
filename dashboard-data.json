@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-06T04:14:49.067Z",
+  "savedAt": "2026-08-12T04:24:41.940Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -729,7 +729,7 @@
                 "id": "au2qqx4",
                 "name": " Domestic market scale, bn PPP$",
                 "mode": "manual",
-                "rawValue": "267.53",
+                "rawValue": "254.53",
                 "minValue": "4.14",
                 "maxValue": "37070",
                 "apiEndpoint": "",
@@ -1500,8 +1500,8 @@
       }
     ],
     "tab": "indicators",
-    "selPi": 5,
-    "selSi": 1,
+    "selPi": 3,
+    "selSi": 2,
     "scenOver": {},
     "scenActive": false,
     "expP": {

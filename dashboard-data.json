@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "savedAt": "2026-08-12T04:48:02.193Z",
+  "savedAt": "2026-08-17T10:25:34.919Z",
   "application": "GII 2025 Dashboard",
   "state": {
     "pillars": [
@@ -370,8 +370,8 @@
                 "id": "z78kf7u",
                 "name": " ICT access",
                 "mode": "manual",
-                "rawValue": "84.60",
-                "minValue": "0",
+                "rawValue": "84.30",
+                "minValue": "24.33",
                 "maxValue": "100",
                 "apiEndpoint": "",
                 "apiRawPath": "",
@@ -387,8 +387,8 @@
                 "id": "xq7vubo",
                 "name": " ICT use",
                 "mode": "manual",
-                "rawValue": "83.80",
-                "minValue": "0",
+                "rawValue": "82.60",
+                "minValue": "29.84",
                 "maxValue": "99.36",
                 "apiEndpoint": "",
                 "apiRawPath": "",
@@ -1500,7 +1500,7 @@
       }
     ],
     "tab": "indicators",
-    "selPi": 5,
+    "selPi": 2,
     "selSi": 0,
     "scenOver": {},
     "scenActive": false,
